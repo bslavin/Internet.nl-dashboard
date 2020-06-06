@@ -74,7 +74,7 @@ eval `direnv hook tcsh`
 In a directory of your choosing, download the software and enter the directory:
 
 ```bash
-git clone --recursive https://https://github.com/internetstandards/Internet.nl-dashboard && cd Internet.nl-dashboard/
+git clone --recursive https://github.com/internetstandards/Internet.nl-dashboard && cd Internet.nl-dashboard/
 ```
 
 Running `make` once to create a development Virtualenv and setup the App and its dependencies. Running `make` without arguments by default also runs basic checks and tests to verify project code quality.
