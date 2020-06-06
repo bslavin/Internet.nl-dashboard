@@ -20,7 +20,7 @@ brew install git python3 direnv
 
 **Debian Linux (apt)**
 ```bash
-apt-get install git python3 direnv
+apt-get install git python3 direnv python3-venv make
 ```
 
 **Redhat/CentOS (yum)**
